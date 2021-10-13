@@ -2,7 +2,7 @@ Hi, I'm Raisul Rafi. A full stacks Web Developer in Bd.
 
 Also expert in,
 
-    	Wordpress
+    Wordpress
 	
 	UI/UX Design
 	
